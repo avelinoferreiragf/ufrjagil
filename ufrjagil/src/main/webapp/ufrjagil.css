@@ -1,0 +1,7 @@
+body {
+	margin: 1em;
+}
+
+label {
+	min-width: 10em;
+}
